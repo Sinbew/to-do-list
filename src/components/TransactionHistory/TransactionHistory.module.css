@@ -1,0 +1,49 @@
+.transactionHistory {
+  background-color: #fff;
+  margin-top: 30px;
+
+  border-radius: 20px;
+  width: 420px;
+
+  overflow: hidden;
+
+  padding: 10px;
+
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.2);
+}
+
+.head {
+}
+
+.headTr th {
+  padding: 20px;
+  border: 1px solid #929292;
+  border-radius: 2px;
+}
+
+.body {
+}
+
+.body td {
+}
+
+.type {
+  padding-right: 25px;
+  padding-left: 45px;
+  border: 1px solid #c6c6c6;
+  border-radius: 2px;
+}
+.amount {
+  padding-right: 25px;
+
+  padding-left: 35px;
+  border: 1px solid #c6c6c6;
+  border-radius: 2px;
+}
+
+.currency {
+  padding-right: 25px;
+  padding-left: 45px;
+  border: 1px solid #c6c6c6;
+  border-radius: 2px;
+}
